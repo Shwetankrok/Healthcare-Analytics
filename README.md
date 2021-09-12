@@ -18,7 +18,8 @@
 <br>3: Implemented Random Forest considering all features, top 15 features and also Hyperparameter Tuning and evaluate the modles using metrics</br>
 <br>4: Implemented Logistic Regression removed all multicollinearity with Variable Inflation factor(VIF) and did Hyperparameter Tuning on top features and evaluated the models</br>
 <br><br>5: Implemented Decision Tree considering all features, top 15 features and also Hyperparameter Tuning  by evalauating the models with metrics</br>
-<br>6: Implemented LSTM (Long Short Term Model) Deep Learning Model and evaluated the model with performance metric </br>
+<br>6: Built XgBoost Classifier and also with HyperParameter Tuning and evaluated the models with metric</br>
+<br>7: Implemented LSTM (Long Short Term Model) Deep Learning Model and evaluated the model with performance metric </br>
 
 <br> Few Snapshots of Analysis and Model results </br>
 
@@ -42,4 +43,5 @@
 <br> ![image](https://user-images.githubusercontent.com/55294349/132805545-5f22ad8c-fa56-4bc6-a4d0-cf2beb8d1228.png) </br>
 <b><br> 10K INR is the median bill for patient and highest point is 30K INR, there are many outliers </br></b>
 
-<br>![image](https://user-images.githubusercontent.com/55294349/132805576-85089356-5188-4635-9712-f13ecd24a0a8.png)</br>
+<br>![image](https://user-images.githubusercontent.com/55294349/132971853-3fa46c4a-87d0-49c1-b02b-eb67cb3352bf.png)</br>
+<br><b> Random Forest and XgBoost Classifier both with HyperParameter Tuning are the better models giving good results </br></b>
